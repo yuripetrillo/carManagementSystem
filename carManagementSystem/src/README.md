@@ -52,7 +52,7 @@ This Application is developed as Microservice Architecture and every REST API Co
 
 
 Each entity has own repository and it's configured with required relationship as shown in below diagram.<br />
-![Relational Database Schema Detail](https://drive.google.com/file/d/1LtTkSRMl2vTE171QsEtMJvy2nqqI9bfE/view?usp=sharing)
+![Relational Database Schema Detail](CMS_Schema.jpg)
 
 Here an example of Rest endpoint controller responsible to give repair by employee (this endpoint can be called also with USER role):
 ```
