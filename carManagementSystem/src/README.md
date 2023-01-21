@@ -4,7 +4,7 @@
 
 
 >Hello, world!
-My name is Yuri Petrillo and this is my project, i made it because i've created it because i hope it will become of really useful, when i was thinking to create it i was thinking about many realistic use cases, and I will certainly make many other improvements.
+My name is Yuri Petrillo and this is my project, i've created it because i hope it will become of really useful, when i was thinking to create it i was thinking about many realistic use cases, and I will certainly make many other improvements.
 It was born with the idea of managing the repairs of an auto repair company.
 
 I have used external sources via API to retrieve all the car models for each single year of construction in a consistent and updated manner, as per below.
